@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="loginn">Login</string>
+    <string name="new_user">New user?</string>
+    <string name="email">Email</string>
+    <string name="password">password</string>
+    <string name="register">Register</string>
+    <string name="loginT">login</string>
+    <string name="sinUp">Sin Up here</string>
+    <string name="name">name</string>
+    <string name="number">number</string>
+    <string name="Email">email</string>
+    <string name="login">Login</string>
+    <string name="have_an_account">have an account?</string>
+    <string name="welcome_to_the_new_activity">Welcome to the new activity</string>
+    <string name="no_of_attempts_remaining_5">Осталось попыток : 5</string>
+</resources>
