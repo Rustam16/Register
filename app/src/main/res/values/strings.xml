@@ -14,4 +14,6 @@
     <string name="have_an_account">have an account?</string>
     <string name="welcome_to_the_new_activity">Welcome to the new activity</string>
     <string name="no_of_attempts_remaining_5">Осталось попыток : 5</string>
+    <string name="registerR">Register</string>
+    <string name="remember_me">Remember me</string>
 </resources>

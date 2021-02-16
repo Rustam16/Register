@@ -60,6 +60,7 @@
         </TextView>
 
 
+
     </LinearLayout>
 
     <TextView
@@ -79,12 +80,11 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:layout_marginTop="350dp"
-        android:text="Register"
+        android:text="@string/registerR"
         android:layout_marginLeft="125dp"
         android:backgroundTint="@color/Mix">
 
     </Button>
-
 
 
 </RelativeLayout>
